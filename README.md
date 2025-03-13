@@ -1,3 +1,3 @@
-# Algorithm Practice with Python
+# Python-Algorithm-Interview
 
-## 알고리즘 문제 풀이 기록용
+### Python-Algorithm-Interview 알고리즘 문제 풀이 기록용
